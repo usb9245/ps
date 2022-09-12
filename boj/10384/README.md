@@ -2,4 +2,4 @@
 ICPC East Central North America Regional / 2014 Contest - Problem PB  
   
 Problem: https://www.acmicpc.net/problem/10384  
-Code: https://www.acmicpc.net/source/49049818
+Code: https://www.acmicpc.net/source/49049818 (C2x)
