@@ -6,7 +6,7 @@ int main()
 {
     int a = 2, b = 2, c = 2, d = 2;
 
-    for(a=2;a<=100;a++) {
+    for(a=2;a<=100;a++,b=2) {
         for(b=2;( tp(a) >= ( tp(b) + tp(c) + tp(d) ) );b++,c=2) {
             for(c=2;( tp(a) >= ( tp(b) + tp(c) + tp(d) ) );c++,d=2) {
                 for(d=2;( tp(a) >= ( tp(b) + tp(c) + tp(d) ) );d++) {
