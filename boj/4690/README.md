@@ -2,5 +2,5 @@
 1995 Mid-Central Regional Programming Contest - Problem 2  
   
 Problem: https://www.acmicpc.net/problem/4690  
-Code: https://www.acmicpc.net/source/50430245 (C2x)
+Code: https://www.acmicpc.net/source/50430296 (C2x)  
 Code: https://www.acmicpc.net/source/50426813 (PyPy3)
