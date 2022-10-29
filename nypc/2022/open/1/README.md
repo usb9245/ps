@@ -1,4 +1,4 @@
-# NYPC 2022 Round 2-B Problem 1
+# NYPC 2022 Open Contest Problem 1
   
 Time Limit : 500ms (GNU C11)
 
