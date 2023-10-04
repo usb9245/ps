@@ -3,6 +3,8 @@
 2023 국민대학교 & 중앙대학교 프로그래밍 경진대회 Open Contest · Arena #7 - A번
 
 Problem: https://www.acmicpc.net/problem/29751  
+Official Editorial: https://upload.acmicpc.net/054430ed-e479-4d3b-996d-2f36b0753e30/
+
 Code: https://www.acmicpc.net/source/66747110 (C2x)  
 Code: https://www.acmicpc.net/source/66747122 (아희)  
 
