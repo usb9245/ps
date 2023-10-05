@@ -1,6 +1,6 @@
 # BOJ 29752 : 최장 스트릭
 
-2023 국민대학교 & 중앙대학교 프로그래밍 경진대회 Open Contest · Arena #7 - B번
+2023 국민대학교 & 중앙대학교 프로그래밍 경진대회 Open Contest · Arena #7 - C번
 
 Problem: https://www.acmicpc.net/problem/29752  
 Official Editorial: https://upload.acmicpc.net/054430ed-e479-4d3b-996d-2f36b0753e30/
